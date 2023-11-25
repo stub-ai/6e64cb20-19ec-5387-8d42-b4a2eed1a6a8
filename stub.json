@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a program in ABAP to read the table SCARR.","md5":"1dbc2ddc901c8131fd234db42d976b7c"}]}
